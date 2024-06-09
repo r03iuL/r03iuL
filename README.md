@@ -1,7 +1,7 @@
 ![Banner](/Banner.png)
 
 # Hi 👋, I'm Robiul Islam
-I am a web developer from Sylhet, Bangladesh. Currently I am focusing on MERN stack. As a computer science student, I love building innovative and efficient solutions with code. I’m always eager to learn new technologies and take on exciting projects.
+I am a web developer from Sylhet, Bangladesh, currently focusing on the MERN stack. As a computer science student, I excel at building innovative and efficient solutions with code. I am always eager to learn new technologies and take on exciting projects to further my expertise. 🚀
 
 
 - 🌱 I’m currently learning **TypeScript,Redux,Next.js**
