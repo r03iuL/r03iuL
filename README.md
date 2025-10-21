@@ -21,9 +21,9 @@ I am a computer science graduate and a web developer from Sylhet, Bangladesh, cu
 
 <p align="left">
 
-<a href="https://linkedin.com/in/r03iul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r03iul" height="20" width="40" /></a>
-<a href="https://fb.com/r03iul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="r03iul" height="20" width="40" /></a>
-<a href="https://twitter.com/r03iul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r03iul" height="20" width="40" /></a>
+<a href="https://linkedin.com/in/r03iul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="40" /></a>
+<a href="https://fb.com/r03iul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="20" width="40" /></a>
+<a href="https://x.com/r03iul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="20" width="40" /></a>
 </p>
 
 
